@@ -5,7 +5,7 @@
 
 Um divertido jogo de adivinhação desenvolvido como parte do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**. O objetivo é descobrir um número secreto gerado aleatoriamente.
 
-alt="gif do jogo em funcionamento" src="img/funcionamento-game.gif"
+![gif do jogo em funcionamento](img/funcionamento-game.gif)
 
 ### 🚀 Sobre o Projeto
 
@@ -42,7 +42,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 1. Clone o repositório:
    ```sh
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone https://github.com/Gabriel-Souza-Tech/secret-number-game.git
    ```
 2. Abra o arquivo `index.html` em seu navegador de preferência.
 3. Divirta-se!
