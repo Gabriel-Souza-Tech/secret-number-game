@@ -46,7 +46,7 @@ function verificarChute() {
     let chute = parseInt(document.querySelector('input').value);
     if (chute === numeroAleatorio) {
         let palavraT = tentativas > 1? 'tentativas' : 'tentativa';
-        let menssagemDeAcerto = `Prabéns, voce acertou o número secreto em ${tentativas} ${palavraT}!`;
+        let menssagemDeAcerto = `Parabéns, voce acertou o número secreto em ${tentativas} ${palavraT}!`;
         exibirTextoNaTela('h1', 'Acertou!');
         exibirTextoNaTela('p', menssagemDeAcerto);
         document.getElementById('reiniciar').removeAttribute('disabled');  
