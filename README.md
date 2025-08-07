@@ -3,6 +3,8 @@
 ![Badge](https://img.shields.io/badge/Oracle_ONE-Alura-blue)
 ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
+[![Jogar Agora!](https://img.shields.io/badge/Jogar%20Agora!-%2328A745?style=for-the-badge)](https://secret-number-game-beryl.vercel.app/)
+
 Um divertido jogo de adivinhação desenvolvido como parte do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**. O objetivo é descobrir um número secreto gerado aleatoriamente.
 
 ![gif do jogo em funcionamento](img/funcionamento-game.gif)
@@ -42,7 +44,4 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Gabriel-Souza-Tech/secret-number-game.git
-   ```
-2. Abra o arquivo `index.html` em seu navegador de preferência.
-3. Divirta-se!
+   git clone [https://github.com/Gabriel-Souza-Tech/secret-number-game.git](https://github.com/Gabriel-Souza-Tech/secret-number-game.git)
